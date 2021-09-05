@@ -4,13 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta name="description" content="experimental blog page">
-    <style>
-      body,.pg,.pg * {outline:1px dashed green;margin:0;padding:0;box-sizing:border-box}
-      .flx{display:flex;align-items:center}
-      .pg{justify-content:space-between;flex-direction:column;border:10px solid #000;background:#ccc;text-align:center}
-      header,footer{line-height:2;background-color:rgba(255,255,0,0.2)}
-      article{min-width:200px;min-height:200px}
-    </style>
+    <link rel="stylesheet" href="./ostyle.css">
     <title>Blog 1</title>
   </head>
   <body>
