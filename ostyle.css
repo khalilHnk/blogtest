@@ -16,7 +16,11 @@ body,.pg,.pg * {
     background:#ccc;
     text-align:center
 }
-header,footer{line-height:2;background-color:rgba(255,255,0,0.2)}
+header,footer{
+  line-height:2;
+  width:100%;
+  background-color:rgba(255,255,0,0.2)
+}
 .pg article{
     outline:2px sold rgba(0,128,0,0.5)
 }
